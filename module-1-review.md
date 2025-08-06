@@ -60,7 +60,6 @@ Meeting external legal and regulatory requirements and internal company policies
 
 ## ✍️ Personal Takeaways
 
-_Use this section to reflect on your own learning. Some prompts to consider:_
 
 - It is suprising how vast and diverse the field of cybersecurity is. Im excited to collaborate with people of different backgrounds.
 - The thought of protecting people specifically felt like a welcome challenge. My first impresssion is of this field is protecting data, devices, and networks. This new understanding motivates me even more.
