@@ -1,37 +1,58 @@
-Glossary terms from module 3
-Terms and definitions from Course 1, Module 3
+# Module 3 – Glossary Terms  
+*Google Cybersecurity Certificate*
 
-Asset: An item perceived as having value to an organization 
+---
 
-Availability: The idea that data is accessible to those who are authorized to access it
+## 📖 Terms and Definitions
 
-Compliance: The process of adhering to internal standards and external regulations
+**Asset**  
+An item perceived as having value to an organization.
 
-Confidentiality: The idea that only authorized users can access specific assets or data
+**Availability**  
+The idea that data is accessible to those who are authorized to access it.
 
-Confidentiality, integrity, availability (CIA) triad: A model that helps inform how organizations consider risk when setting up systems and security policies
+**Compliance**  
+The process of adhering to internal standards and external regulations.
 
-Hacktivist: A person who uses hacking to achieve a political goal
+**Confidentiality**  
+The idea that only authorized users can access specific assets or data.
 
-Health Insurance Portability and Accountability Act (HIPAA): A U.S. federal law established to protect patients' health information
+**Confidentiality, Integrity, Availability (CIA) Triad**  
+A model that helps inform how organizations consider risk when setting up systems and security policies.
 
-Integrity: The idea that the data is correct, authentic, and reliable
+**Hacktivist**  
+A person who uses hacking to achieve a political goal.
 
-National Institute of Standards and Technology (NIST) Cyber Security Framework (CSF): A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk
+**Health Insurance Portability and Accountability Act (HIPAA)**  
+A U.S. federal law established to protect patients' health information.
 
-Privacy protection: The act of safeguarding personal information from unauthorized use
+**Integrity**  
+The idea that the data is correct, authentic, and reliable.
 
-Protected health information (PHI): Information that relates to the past, present, or future physical or mental health or condition of an individual
+**National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)**  
+A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
 
-Security architecture: A type of security design composed of multiple components, such as tools and processes, that are used to protect an organization from risks and external threats
+**Privacy Protection**  
+The act of safeguarding personal information from unauthorized use.
 
-Security controls: Safeguards designed to reduce specific security risks
+**Protected Health Information (PHI)**  
+Information that relates to the past, present, or future physical or mental health or condition of an individual.
 
-Security ethics: Guidelines for making appropriate decisions as a security professional
+**Security Architecture**  
+A type of security design composed of multiple components, such as tools and processes, that are used to protect an organization from risks and external threats.
 
-Security frameworks: Guidelines used for building plans to help mitigate risk and threats to data and privacy
+**Security Controls**  
+Safeguards designed to reduce specific security risks.
 
-Security governance: Practices that help support, define, and direct security efforts of an organization
+**Security Ethics**  
+Guidelines for making appropriate decisions as a security professional.
 
-Sensitive personally identifiable information (SPII): A specific type of PII that falls under stricter handling guidelines
+**Security Frameworks**  
+Guidelines used for building plans to help mitigate risks and threats to data and privacy.
+
+**Security Governance**  
+Practices that help support, define, and direct the security efforts of an organization.
+
+**Sensitive Personally Identifiable Information (SPII)**  
+A specific type of PII that falls under stricter handling guidelines.
 
