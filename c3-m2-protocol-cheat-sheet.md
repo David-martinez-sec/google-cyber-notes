@@ -1,4 +1,4 @@
-# Module 1 – Network Protocols Reference Sheet
+# Module 2 – Network Protocols Reference Sheet
 
 ## Overview
 This sheet combines all protocols from the readings into one quick reference.  
