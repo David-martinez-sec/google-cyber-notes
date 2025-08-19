@@ -46,4 +46,28 @@
 ### Subnetting & CIDR
 - **Subnetting**: divides a network into logical groups.  
 - **CIDR (Classless Inter-Domain Routing):** assigns subnet masks to IP addresses.  
-  - Example: `192.1.1.1/23` → `/23` indicates the subne
+  - Example: `192.1.1.1/23` → `/23` indicates the subnet mask and range of addresses.  
+
+---
+
+## Proxy Servers
+- **Intermediary** between client requests and destination servers.  
+- Hides internal IP addresses with a separate public IP.  
+- Adds a layer of security by filtering and inspecting requests.  
+
+### Types of Proxies
+- **Forward Proxy**  
+  - Handles outgoing traffic.  
+  - Hides user IP addresses.  
+  - Approves/rejects requests to the internet.  
+
+- **Reverse Proxy**  
+  - Handles incoming traffic.  
+  - Protects internal servers by hiding their IPs.  
+  - Commonly used for load balancing and security.  
+
+- **Email Proxy**  
+  - Filters spam.  
+  - Verifies sender addresses.  
+  - Reduces phishing attacks.  
+
