@@ -1,7 +1,7 @@
 # Learn More About Packet Captures  
 
-**Course 6 – Module X**  
-_File: c6_mX_packet_captures.md_  
+**Course 6 – Module 2**  
+_File: c6_m2_packet_captures.md_  
 
 ---
 
