@@ -35,8 +35,8 @@ This repo is:
 
 ## 👋 Connect with Me
 
-- LinkedIn: [linkedin.com/in/YOURNAME](https://linkedin.com/in/YOURNAME)
-- GitHub: [github.com/YOURUSERNAME](https://github.com/YOURUSERNAME)
+- LinkedIn: [linkedin.com/in/unburied-martinez](https://www.linkedin.com/in/unburied-martinez/)
+- GitHub: [github.com/David-Martinez-sec]](https://github.com/David-martinez-sec)
 
 ---
 
